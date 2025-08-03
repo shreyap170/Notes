@@ -17,12 +17,5 @@ This project implements a secure RESTful API for personal note management. It in
 - Access control: Users can only manage their own notes
 - Proper error handling
 
-## Setup and Installation
-
-(To be filled with detailed instructions)
-
-## API Endpoints
-
-(To be filled with detailed endpoint documentation)
 
 
